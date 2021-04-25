@@ -1,0 +1,255 @@
+.registro{
+	
+	position: absolute;
+	left: 130px;
+	top: 450px;
+	height: 1300px;
+	width: 1100px;
+	margin: 0 auto;
+    padding: 3em;
+    border-radius: 10px;
+    border-color: red;
+    border-style: solid;
+    box-sizing: border-box;
+}
+
+.lb-select-pais{
+	position: absolute;
+	top: 50px;
+	left: 200px;
+	width: 150px;
+	height: 20px;
+	font-size: 25px;
+}
+
+.select_pais{
+	position: absolute;
+	top: 100px;
+	left: 200px;
+	width: 250px;
+	height: 50px;
+	margin: 0 auto;
+	border-radius: 10px;
+	padding: 0px;
+	text-align: center;
+}
+
+.lb-nombres{
+	position: absolute;
+	top: 50px;
+	left: 600px;
+	width: 150px;
+	height: 20px;
+	font-size: 25px;
+}
+
+.nombres{
+	position: absolute;
+	top: 100px;
+	left: 600px;
+	width: 250px;
+	height: 50px;
+	margin: 0 auto;
+	border-radius: 10px;
+	padding: 0px;
+}
+
+.lb-dni{
+	position: absolute;
+	top: 200px;
+	left: 200px;
+	width: 150px;
+	height: 20px;
+	font-size: 25px;
+}
+
+.dni{
+	position: absolute;
+	top: 250px;
+	left: 200px;
+	width: 250px;
+	height: 50px;
+	margin: 0 auto;
+	border-radius: 10px;
+	padding: 0px;
+}
+
+.lb-apellido{
+	position: absolute;
+	top: 200px;
+	left: 600px;
+	width: 150px;
+	height: 20px;
+	font-size: 25px;
+}
+
+.apellido{
+	position: absolute;
+	top: 250px;
+	left: 600px;
+	width: 250px;
+	height: 50px;
+	margin: 0 auto;
+	border-radius: 10px;
+	padding: 0px;
+}
+
+.lb-user{
+	position: absolute;
+	top: 350px;
+	left: 200px;
+	width: 150px;
+	height: 20px;
+	font-size: 25px;
+}
+
+.user{
+	position: absolute;
+	top: 400px;
+	left: 200px;
+	width: 250px;
+	height: 50px;
+	margin: 0 auto;
+	border-radius: 10px;
+	padding: 0px;
+}
+
+.lb-contra{
+	position: absolute;
+	top: 350px;
+	left: 600px;
+	width: 150px;
+	height: 20px;
+	font-size: 25px;
+}
+
+.contraseña{
+	position: absolute;
+	top: 400px;
+	left: 600px;
+	width: 250px;
+	height: 50px;
+	margin: 0 auto;
+	border-radius: 10px;
+	padding: 0px;
+}
+
+.lb-tienda{
+	position: absolute;
+	top: 500px;
+	left: 200px;
+	width: 500px;
+	height: 20px;
+	font-size: 25px;
+}
+
+.tienda_cercana{
+	position: absolute;
+	top: 550px;
+	left: 200px;
+	width: 350px;
+	height: 50px;
+	margin: 0 auto;
+	border-radius: 10px;
+	padding: 0px;
+	text-align: center;
+}
+
+.lb-ciudad-entrega{
+	position: absolute;
+	top: 650px;
+	left: 200px;
+	width: 500px;
+	height: 20px;
+	font-size: 25px;
+}
+
+.select-ciudad-entrega{
+	position: absolute;
+	top: 700px;
+	left: 200px;
+	width: 350px;
+	height: 50px;
+	margin: 0 auto;
+	border-radius: 10px;
+	padding: 0px;
+}
+
+.lb-direccion{
+	position: absolute;
+	top: 800px;
+	left: 200px;
+	width: 150px;
+	height: 20px;
+	font-size: 25px;
+}
+
+.direccion-1{
+	position: absolute;
+	top: 850px;
+	left: 200px;
+	width: 300px;
+	height: 50px;
+	margin: 0 auto;
+	border-radius: 10px;
+	padding: 0px;
+}
+
+.direccion-2{
+	position: absolute;
+	top: 850px;
+	left: 600px;
+	width: 300px;
+	height: 50px;
+	margin: 0 auto;
+	border-radius: 10px;
+	padding: 0px;
+}
+
+.lb-email{
+	position: absolute;
+	top: 950px;
+	left: 200px;
+	width: 250px;
+	height: 20px;
+	font-size: 25px;
+}
+
+.email{
+	position: absolute;
+	top: 1000px;
+	left: 200px;
+	width: 300px;
+	height: 50px;
+	margin: 0 auto;
+	border-radius: 10px;
+	padding: 0px;
+}
+
+.lb-telefono{
+	position: absolute;
+	top: 950px;
+	left: 600px;
+	width: 150px;
+	height: 20px;
+	font-size: 25px;
+}
+
+.telefono{
+	position: absolute;
+	top: 1000px;
+	left: 600px;
+	width: 300px;
+	height: 50px;
+	margin: 0 auto;
+	border-radius: 10px;
+	padding: 0px;
+}
+
+.BT-registro{
+	position: absolute;
+	top: 1150px;
+	left: 440px;
+	height: 50px;
+	width: 200px;
+}

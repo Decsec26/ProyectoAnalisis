@@ -1,0 +1,123 @@
+.BodyLogin {
+    background: no-repeat ;
+    font-family: 'Raleway', sans-serif;
+}
+h1 {
+    margin: 0;
+    color: #ffffff;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    padding: 50px 0;
+}
+
+h2 {
+    margin: 0;
+    color: #fc3955;
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+    letter-spacing: 1px;
+    padding-bottom: 30px;
+}
+
+.login-form{
+    position: absolute;
+    left: 31.5%;
+    top: 90px;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 3em;
+    border-radius: 10px;
+    border-color: red;
+    border-style: solid;
+    box-sizing: border-box;
+}
+
+.form-group {
+    margin: 20px 0;
+}
+
+.form-group label {
+    display: block;
+    text-transform: uppercase;
+    font-size: 13px;
+    color: #d2d2d2;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
+.group {
+    display: flex;
+    padding: 15px 5px;
+    background-color: #ffffff;
+}
+
+.group i {
+    color: #fc3955;
+    font-size: 20px;
+    padding: 0 10px;
+}
+
+input.form-controlLogin {
+    width: 100%;
+    border: none;
+    box-sizing: border-box;
+    background: transparent;
+    color: #000;
+}
+
+input.form-controlLogin:focus {
+    outline: none;
+}
+
+.forgot {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.forgot p {
+    color: #ffffff;
+    text-align: center;
+    margin: 0px;
+    font-size: 13px;
+}
+
+.register {
+    color: #00BCD4;
+    text-decoration: none;
+}
+
+.perdioContra{
+    color: #eee;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+button:hover {
+    background-color: #00BCD4;
+    transition-duration: 5s;
+}
+
+button {
+    background: #fc3955;
+    color: #ffffff;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border: none;
+    padding: 12px 60px;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 6px;
+}
+
+p.register-p {
+  
+    font-size: 13px;
+    text-align: center;
+    margin-top: 2em;
+}
